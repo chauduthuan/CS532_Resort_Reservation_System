@@ -2,7 +2,7 @@
 
 
 
-define('HOTEL_NAME', "DedeBan Hotel");
+define('HOTEL_NAME', "Tony Hotel");
 
 
 /*
